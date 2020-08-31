@@ -1,0 +1,27 @@
+body{
+    background-color:rgba(134, 207, 201, 0.76);
+}
+ul{
+    align-items: center;
+    display: flex;
+    padding-right: 20px;
+    font-weight: bold;
+    clear: both;
+    margin:auto;
+    justify-content: center;
+
+}
+li{
+    list-style: none;
+    padding-right: 20px;
+}
+li a{
+    text-decoration: none;
+}
+a:hover{
+    color:yellow;
+}
+form{
+    justify-content: center;
+    margin:auto;
+}
